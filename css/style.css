@@ -394,55 +394,55 @@ button.carousel-control-next {
   padding: 12px;
 }
 .slick-track button:nth-child(1) {
-  background-image: url("/image/client-1.png");
+  background-image: url(../image/client-1.png);
 }
 .slick-track button:nth-child(2) {
-  background-image: url("/image/client-2.png");
+  background-image: url(../image/client-2.png);
 }
 .slick-track button:nth-child(3) {
-  background-image: url("/image/client-3.png");
+  background-image: url(../image/client-3.png);
 }
 .slick-track button:nth-child(4) {
-  background-image: url("/image/client-4.png");
+  background-image: url(../image/client-4.png);
 }
 .slick-track button:nth-child(5) {
-  background-image: url("/image/client-5.png");
+  background-image: url(../image/client-5.png);
 }
 .slick-track button:nth-child(6) {
-  background-image: url("/image/client-6.png");
+  background-image: url(../image/client-6.png);
 }
 .slick-track button:nth-child(7) {
-  background-image: url("/image/client-7.png");
+  background-image: url(../image/client-7.png);
 }
 .slick-track button:nth-child(8) {
-  background-image: url("/image/client-8.png");
+  background-image: url(../image/client-8.png);
 }
 .slick-track button:nth-child(9) {
-  background-image: url("/image/client-9.png");
+  background-image: url(../image/client-9.png);
 }
 .slick-track button:nth-child(10) {
-  background-image: url("/image/client-1.png");
+  background-image: url(../image/client-1.png);
 }
 .slick-track button:nth-child(11) {
-  background-image: url("/image/client-2.png");
+  background-image: url(../image/client-2.png);
 }
 .slick-track button:nth-child(12) {
-  background-image: url("/image/client-3.png");
+  background-image: url(../image/client-3.png);
 }
 .slick-track button:nth-child(13) {
-  background-image: url("/image/client-4.png");
+  background-image: url(../image/client-4.png);
 }
 .slick-track button:nth-child(14) {
-  background-image: url("/image/client-5.png");
+  background-image: url(../image/client-5.png);
 }
 .slick-track button:nth-child(15) {
-  background-image: url("/image/client-6.png");
+  background-image: url(../image/client-6.png);
 }
 .slick-track button:nth-child(16) {
-  background-image: url("/image/client-7.png");
+  background-image: url(../image/client-7.png);
 }
 .slick-track button:nth-child(17) {
-  background-image: url("/image/client-8.png");
+  background-image: url(../image/client-8.png);
 }
 .slick-track button::after {
   position: absolute;
